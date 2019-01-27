@@ -3,17 +3,16 @@
 	background: #f3f3f3;
 	border: 1px solid #ccc;
 }
-#container-avisos {
-	padding-top: 15px;
-}
 #container-dados {
 	padding-top: 10px;
 	float: center;
-	clear: both;
 }
 #container-geracao {
 	padding-top: 10px;
 }
 #container-distancia {
+	padding-top: 10px;
+}
+#container-maiorDistancia {
 	padding-top: 10px;
 }
