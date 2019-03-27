@@ -16,7 +16,7 @@
 
 	Willian Gabriel Cerqueira da Rocha
 	willianrocha[at]riseup[dot]net
-	http://willianrocha.tk
+	https://wgrocha.github.io
 */
 
 document.addEventListener ("DOMContentLoaded", () => {
