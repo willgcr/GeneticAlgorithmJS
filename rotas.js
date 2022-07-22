@@ -15,8 +15,8 @@
 	All rights reserved.
 
 	Willian Gabriel Cerqueira da Rocha
-	willianrocha[at]riseup[dot]net
-	https://wgrocha.github.io
+	hello[at]willgcr[dot]me
+	https://willgcr.me
 */
 
 document.addEventListener ("DOMContentLoaded", () => {
